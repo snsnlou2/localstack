@@ -45,3 +45,4 @@ requirements.copy.txt
 *.tfstate
 *.tfstate.*
 *tfplan
+root_key
